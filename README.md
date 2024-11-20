@@ -6,3 +6,10 @@ No mundo moderno de desenvolvimento de software, garantir que sua aplicação es
 No repositorio esta o codigo fonte utilizado no artigo 👇
 
 
+Gráfico dos dados no Grafana
+![image](https://github.com/user-attachments/assets/e8acdb36-59d0-4e7d-aa9a-9ad039908f09)
+
+
+
+Gráfico dos dados no Prometheus
+![image](https://github.com/user-attachments/assets/baf1309a-8313-47f5-99b5-d88bef3e043d)
